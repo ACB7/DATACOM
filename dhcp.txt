@@ -1,6 +1,6 @@
 
 
-Server is naar de tab DHCP op de server gaan en de vakken invullen
+Server is naar de tab DHCP (onder "services") op de server gaan en de vakken invullen
   
 
 cli is:
