@@ -1,0 +1,20 @@
+
+
+Server is naar de tab DHCP op de server gaan en de vakken invullen
+  
+
+cli is:
+
+>en
+>config t
+>ip dhcp pool {dhcp pool naam}
+> network {ip adres} {subnet mask}
+> default-router {vlan ip address}
+
+voor exlusions:
+
+>config t
+> ip dhcp excluded-address {ip address}
+
+of 
+> ip dhcp excluded-address {begin ip} {eind ip}
