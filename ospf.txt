@@ -1,0 +1,4 @@
+
+ospf cmds:
+https://computernetworking747640215.wordpress.com/2018/05/24/ospf-configuration-in-packet-tracer/
+
